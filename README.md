@@ -15,3 +15,8 @@
 ### Styles 
 - styled-components를 사용하였습니다.
 - css 파일을 밖에 두지 않고, 컴포넌트 내부에 넣기 때문에, css가 전역으로 중첩되지 않도록 만들어주는 장점이 있습니다.
+
+## Working
+<img width="100%" src="https://user-images.githubusercontent.com/66458836/127115448-cb579126-7f93-4907-be93-b780e49d5184.gif" />
+
+

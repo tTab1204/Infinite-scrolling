@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Infinite-scrolling/static/css/main.981c6aed.chunk.css",
-    "main.js": "/Infinite-scrolling/static/js/main.8d07fc1f.chunk.js",
-    "main.js.map": "/Infinite-scrolling/static/js/main.8d07fc1f.chunk.js.map",
+    "main.js": "/Infinite-scrolling/static/js/main.dbc112ee.chunk.js",
+    "main.js.map": "/Infinite-scrolling/static/js/main.dbc112ee.chunk.js.map",
     "runtime-main.js": "/Infinite-scrolling/static/js/runtime-main.26e6ee50.js",
     "runtime-main.js.map": "/Infinite-scrolling/static/js/runtime-main.26e6ee50.js.map",
     "static/js/2.d6490b70.chunk.js": "/Infinite-scrolling/static/js/2.d6490b70.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.26e6ee50.js",
     "static/js/2.d6490b70.chunk.js",
     "static/css/main.981c6aed.chunk.css",
-    "static/js/main.8d07fc1f.chunk.js"
+    "static/js/main.dbc112ee.chunk.js"
   ]
 }

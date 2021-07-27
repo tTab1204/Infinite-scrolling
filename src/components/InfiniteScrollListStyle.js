@@ -6,14 +6,13 @@ export const InfiniteScrollContainer = styled.div`
 
 export const CommentContainer = styled.div`
   width: 500px;
-  height: 193px;
+  height: 100%;
   display: flex;
   flex-direction: column;
   border-radius: 20px;
   background: #f8f9fa;
-  margin: 20px auto;
+  margin: 20px auto 14px auto;
   border: 0.5px solid #ced4da;
-  overflow: hidden;
   padding: 20px;
   color: #212529;
 `;
@@ -44,5 +43,6 @@ export const CommentDetail = styled.div`
 
   & > p {
     margin-block-start: 2px;
+    margin-block-end: 0;
   }
 `;

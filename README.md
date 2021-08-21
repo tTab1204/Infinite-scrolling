@@ -1,4 +1,4 @@
-## Infinite Scrolling(Hayan Mind)
+## Infinite Scrolling(HayanMind)
 - 무한 스크롤 기능을 구현하였습니다.
 - 링크: https://ttab1204.github.io/Infinite-scrolling/
 
